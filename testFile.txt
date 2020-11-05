@@ -1,0 +1,13 @@
+Leo@DESKTOP-9H83LJ6 MINGW64 ~/Desktop/repo (main)
+$ git log
+commit 7002dec3c5ff33fe3b655a8b324ee55fe149d4a4 (HEAD -> main, test-branch)
+Author: pyroface <leo.ebenezer@hotmail.com>
+Date:   Thu Nov 5 15:52:46 2020 +0100
+
+    add new text file
+
+commit a61e6bad4f5e74b7173b87b4fe84e0329743ca34 (origin/main)
+Author: pyroface <leo.ebenezer@hotmail.com>
+Date:   Thu Nov 5 15:43:13 2020 +0100
+
+    adding readme and gitignore
